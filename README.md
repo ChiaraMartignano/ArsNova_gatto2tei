@@ -1,4 +1,4 @@
-# ArsNova_tei2json
+# ArsNova_gatto2tei
 GattoWeb custom XML to XML/TEI Converter for ArsNova Project Digital Edition.
 
 ## Installation
